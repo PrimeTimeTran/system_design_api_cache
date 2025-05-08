@@ -10,3 +10,10 @@ Instead of querying our DB on every request, and potentially overloading the DB,
 
 - [Flask](https://flask.palletsprojects.com/en/stable)
 - [Redis](https://redis.io/docs/latest)
+
+## Setup
+
+- `git clone`
+- `python3 -m venv venv`
+- `source venv/bin/activate`
+- `python3 main.py`
