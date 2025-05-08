@@ -13,8 +13,8 @@
 ### 1. Setup Project Repo
 
 ```sh
-mkdir system_design_flask
-cd system_design_flask
+mkdir system_design_api_cache
+cd system_design_api_cache
 
 python3 -m venv venv
 source venv/bin/activate
